@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":false,"name":"map_north_the_wall","order":5,"parentId":0,"scrollX":781.1999999999999,"scrollY":994.1999999999999},
+{"id":2,"expanded":false,"name":"inside_castle_black","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"above_the_wall","order":2,"parentId":0,"scrollX":659,"scrollY":371.5},
+{"id":4,"expanded":true,"name":"map_north_behind_the_wall","order":6,"parentId":0,"scrollX":781.1999999999999,"scrollY":445.79999999999995},
+{"id":5,"expanded":false,"name":"ruins","order":7,"parentId":0,"scrollX":790.8,"scrollY":445.79999999999995},
+{"id":6,"expanded":false,"name":"inside_commander_house","order":3,"parentId":0,"scrollX":790.8,"scrollY":445.79999999999995},
+{"id":7,"expanded":false,"name":"inside_pub","order":4,"parentId":0,"scrollX":790.8,"scrollY":445.79999999999995}
+]

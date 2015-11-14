@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Reysen","characterIndex":0,"characterName":"Reysen","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Reysen","traits":[{"code":43,"dataId":8,"value":10},{"code":43,"dataId":8,"value":10}],"initialLevel":1,"maxLevel":99,"name":"Reysen","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Desmond","characterIndex":0,"characterName":"Desmond","classId":2,"equips":[2,0,2,3,4],"faceIndex":0,"faceName":"Desmond","traits":[{"code":42,"dataId":2,"value":10}],"initialLevel":1,"maxLevel":99,"name":"Desmond","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Gerren","characterIndex":0,"characterName":"Gerren","classId":3,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Gerren","traits":[{"code":41,"dataId":2,"value":10}],"initialLevel":1,"maxLevel":99,"name":"Gerren","nickname":"","note":"","profile":""}
+]
