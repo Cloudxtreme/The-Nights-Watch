@@ -1,7 +1,7 @@
 The Nights Watch
 =================================
 
-A HTML5 RPG game based on The Nights Watch of Game Of Thrones (demo version)
+A HTML5 RPG game based on The Nights Watch of Game Of Thrones 
 
 ![Screen](https://github.com/gugoan/The-Nights-Watch/blob/master/screens/sc_menu.jpg)
 
